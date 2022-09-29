@@ -6,8 +6,7 @@ It's a version of the freeway game in JS.
 
 to play it just use the arrow keys.
 
-
-by some bug the game sound only starts after being hit by a ship.
+click the link below to play the game and see the code
 
 
 https://editor.p5js.org/secesar/sketches/Wk7Oorw40
